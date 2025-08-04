@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **All about Next.js**
 
-- 👨‍💻 All of my projects are available at [https://khaledrizk-portfolio.netlify.app/](https://khaledrizk-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://khaledrizk-portfolio.vercel.app/)
 
 - 📫 How to reach me **kh413d413@gmail.com**
 
