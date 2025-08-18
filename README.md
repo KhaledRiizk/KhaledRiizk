@@ -1,20 +1,66 @@
-<h1 align="center">Hi 👋, I'm Khaled Rizk</h1>
-<h3 align="center">A passionate frontend developer & Next.js enthusiast from Egypt</h3>
+# 👋 Hi, I'm Khaled Rizk  
 
-- 🔭 I’m currently working on [Filmpire](https://github.com/Kh413dR1zk/filmpire)
+🚀 Frontend Developer | React & Next.js Enthusiast | Lifelong Learner  
 
-- 🌱 I’m currently learning **All about Next.js**
+I’m passionate about building **modern, responsive, and user-focused web applications**.  
+Currently managing and developing websites at **BUC University**, where I focus on improving performance, UX, and accessibility.  
+Outside of work, I’m constantly learning new technologies and sharpening my problem-solving skills.  
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://khaledrizk-portfolio.vercel.app/)
+---
 
-- 📫 How to reach me **kh413d413@gmail.com**
+## 🔧 Tech Stack & Tools  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/khaled rizk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khaled rizk" height="30" width="40" /></a>
-</p>
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khaledriizk&show_icons=true&locale=en&layout=compact" alt="khaledriizk" /></p>
+## 📌 Featured Projects
+- **DevSpace** — Full-stack Q&A platform (auth, profiles, SEO)
+  - Live: https://devspace-lemon.vercel.app/ · Code: https://github.com/KhaledRiizk/dev_2
+- **Horizon Banking** — Next.js SaaS for bank linking, transfers (Plaid/Dwolla)
+  - Live: https://kr-banking.vercel.app/ · Code: https://github.com/KhaledRiizk/kr-banking
+- **Filmpire** — Movie explorer with login, bookmarks, watch-later (TMDB)
+  - Live: https://r1-filmpire.netlify.app/ · Code: https://github.com/KhaledRiizk/filmpire
+- **iPhone 15 3D** — Landing page with Three.js + GSAP animations
+  - Live: https://r1-iphone-15.netlify.app/ · Code: https://github.com/KhaledRiizk/apple_project
+
+*(More projects coming soon…)*  
+
+---
+
+## 📊 GitHub Stats  
+
+![Khaled's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khaledriizk&show_icons=true&theme=ambient_gradient)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khaledriizk&layout=compact&theme=ambient_gradient)
+
+---
+
+## 🌱 Currently Learning  
+- Advanced React Patterns & Performance Optimization  
+- Framer Motion for sleek UI animations  
+- Building and scaling full-stack apps with Next.js + MongoDB  
+
+---
+
+## 📫 Get in Touch  
+
+📧 Email: **kh413d413@gmail.com**  
+🌐 Portfolio: [khaledrizk-portfolio.vercel.app](https://khaledrizk-portfolio.vercel.app/)  
+💼 LinkedIn: [linkedin.com/in/khaledriizk](https://linkedin.com/in/khaledriizk)  
+📱  Phone: **+20 106 399 6708**  
+
+---
+
+✨ *Always excited to collaborate on interesting projects, open-source contributions, and challenging problems!*  
