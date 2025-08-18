@@ -24,25 +24,12 @@ Outside of work, I’m constantly learning new technologies and sharpening my pr
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 
----
-
-## 📌 Featured Projects
-- **DevSpace** — Full-stack Q&A platform (auth, profiles, SEO)
-  - Live: https://devspace-lemon.vercel.app/ · Code: https://github.com/KhaledRiizk/dev_2
-- **Horizon Banking** — Next.js SaaS for bank linking, transfers (Plaid/Dwolla)
-  - Live: https://kr-banking.vercel.app/ · Code: https://github.com/KhaledRiizk/kr-banking
-- **Filmpire** — Movie explorer with login, bookmarks, watch-later (TMDB)
-  - Live: https://r1-filmpire.netlify.app/ · Code: https://github.com/KhaledRiizk/filmpire
-- **iPhone 15 3D** — Landing page with Three.js + GSAP animations
-  - Live: https://r1-iphone-15.netlify.app/ · Code: https://github.com/KhaledRiizk/apple_project
-
-*(More projects coming soon…)*  
 
 ---
 
 ## 📊 GitHub Stats  
 
-![Khaled's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khaledriizk&show_icons=true&theme=ambient_gradient)  
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khaledriizk&layout=compact&theme=ambient_gradient)
 
 ---
